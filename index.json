@@ -1,0 +1,8 @@
+{
+  "com.acpad.surface": {
+    "file": "com.acpad.surface.firmware-57.bin",
+    "version": 57,
+    "board": "acpad:samd:surface",
+    "hash": "8cb7591861bca4d98dea79b67c58d56b7d68bddf"
+  }
+}
