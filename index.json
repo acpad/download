@@ -1,0 +1,24 @@
+{
+  "com.acpad.surface": [
+    {
+      "file": "com.acpad.surface.firmware-4.bin",
+      "version": 4,
+      "board": "acpad:samd:surface",
+      "hash": "e9260b7ecd30f41e5158064e7aca863942bb4932"
+    },
+    {
+      "file": "com.acpad.surface.firmware-5.bin",
+      "version": 5,
+      "board": "acpad:samd:surface",
+      "hash": "eb06d4630a77eb2f9f9e36dc60112a4d70f494a7"
+    }
+  ],
+  "com.acpad.strip": [
+    {
+      "file": "com.acpad.strip.firmware-2.bin",
+      "version": 2,
+      "board": "versioduo:samd:itsybitsy",
+      "hash": "dca95cde450ae85a91faec6330d1a02c9f2b27b2"
+    }
+  ]
+}

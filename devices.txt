@@ -1,0 +1,5 @@
+# Source directories for devices to build the firmwares.
+#
+acpad/strip
+acpad/surface
+
