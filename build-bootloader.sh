@@ -2,7 +2,7 @@
 
 set -e
 
-VERSION=5
+VERSION=6
 
 rm -rf ../uf2-samdx1/build/ ../uf2-samdx1/build.tmp/
 
