@@ -22,7 +22,7 @@
       "file": "com.acpad.surface.firmware-7.bin",
       "version": 7,
       "board": "acpad:samd:surface",
-      "hash": "44db2512d96ad563506ffba8669a3470c442ae1c"
+      "hash": "cd08df8f4a0af5fa2837edc99afc1b77633ec511"
     }
   ],
   "com.acpad.strip": [
