@@ -17,6 +17,12 @@
       "version": 6,
       "board": "acpad:samd:surface",
       "hash": "7a2f58bb23d748808338458d0acad23f2ed16654"
+    },
+    {
+      "file": "com.acpad.surface.firmware-7.bin",
+      "version": 7,
+      "board": "acpad:samd:surface",
+      "hash": "44db2512d96ad563506ffba8669a3470c442ae1c"
     }
   ],
   "com.acpad.strip": [
@@ -24,7 +30,7 @@
       "file": "com.acpad.strip.firmware-2.bin",
       "version": 2,
       "board": "versioduo:samd:itsybitsy",
-      "hash": "0b331f31feffd079ea2268d2d9afed2f5628f08c"
+      "hash": "68d6240b85c71c67ff193129020758a837f0f8a3"
     }
   ]
 }
