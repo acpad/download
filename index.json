@@ -35,7 +35,7 @@
       "file": "com.acpad.surface.firmware-9.bin",
       "version": 9,
       "board": "acpad:samd:surface",
-      "hash": "b1ba23132e1fa7791aef0ad8ebe058cb52d2837c"
+      "hash": "3652b700a5a4c770c0eabb5ba21c702c83666df8"
     }
   ],
   "com.acpad.strip": [
