@@ -9,15 +9,15 @@
         {
           "name": "ACPAD",
           "architecture": "samd",
-          "version": "36",
+          "version": "37",
           "category": "acpad",
           "help": {
             "online": "https://github.com/acpad/download"
           },
-          "url": "https://support.acpad.com/download/acpad-samd-36.tar.bz2",
-          "archiveFileName": "acpad-samd-36.tar.bz2",
-          "size": "394500",
-          "checksum": "SHA-256:f399cd63878d5517af3cf0627a0f76327a0103891119a76ee0b72cc653718e3f",
+          "url": "https://support.acpad.com/download/acpad-samd-37.tar.bz2",
+          "archiveFileName": "acpad-samd-37.tar.bz2",
+          "size": "430299",
+          "checksum": "SHA-256:d38c84413d813cfa28c88bc6e36bfcfcc2f0e33dc5faf33f3a7f2dbfb415399b",
           "toolsDependencies": [
             {
               "packager": "acpad",
